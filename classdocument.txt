@@ -1,0 +1,98 @@
+java tokens
+
+types of tokens
+- Identifiers
+
+names given to variable, method,classes and objects 
+
+1. a-z or A-Z
+2. a-z or A- z or 0-9 or _ or $
+3. cannot be keywords
+4. cannot contain spaces 
+
+- keywords
+53
+
+3 - literals
+true 
+false
+null
+
+2 
+goto
+const 
+
+
+
+
+- comments
+3 types
+
+1. single
+2. multiline
+3. java 
+
+- datatypes
+1. primitive datatypes
+	byte - 8 bits - -128 to 127
+	short - 2 bytes - -2 power 15 to 2 power 15 -1
+ 	int - 4 bytes - -2 power 31 to 2 power 31 -1
+	long - 8 bytes - -2 power 63 to 2 power 63 -1
+	char - 1 bit - 0 to 65543
+	boolean true or false
+	float 4 bytes
+	double 8 bytes
+2. derived datatypes
+
+	arrays, classes objecs
+
+
+- literals
+
+10
+true
+'a'
+"thefjlsddjlfdsfj"
+- separators or operators
+separators
+int a,b;
+{} - block declaration
+[] - arrays
+() - method declaration
+'' - character 
+"" - string declaration
+, - variable separtion
+
+
+
+19 - 10011
+25 - 11001
+
+10001
+
+preincrement
+postincrement
+
+
+operators
+
+1. + - * / %
+2. < > <= >= == !=
+3. && || ^
+4. & | ~ >> <<
+5. ?:
+6. ++ --
+7. =
+8. += -=
+
+
+variable
+- static variable & class variable
+- non-static variable & instance variable
+- local variable
+
+
+
+
+
+

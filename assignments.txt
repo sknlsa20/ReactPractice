@@ -1,0 +1,14 @@
+1. need to find out a number is even or odd
+2. need to take two number and add them and find out sum of them is even or odd
+
+3. need to find out a number is it 3 multiple, 5 multiple or 7 multiple
+
+4. need to find out a number is divisible by 9 or not, is it further divisible by 3 or not
+
+5. accept a number from user and find out wheather it is prime or not, palindrome or not, armstrong or not, perfect or not
+
+6. accept elements for two dimensional and find out sum of all the elements and print the two dimension
+
+7. accept elements for three dimensional and find out max and min of all the elements and print the three dimension
+
+
